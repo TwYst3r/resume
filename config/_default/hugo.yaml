@@ -18,7 +18,9 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-
+caches : 
+  images:
+    dir : cacheDIR/images
 build:
   writeStats: true
 enableGitInfo: false
