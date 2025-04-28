@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
+title: CV Ruben Reyes
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# Full name ()
+first_name: Ruben
+last_name: Reyes
 
 # Status emoji
 status:
@@ -17,35 +14,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Network & System Administrator in Internship
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Kobus
     url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ruben.kade@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/TwYst3r
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  - area: Montreuil
+    institution: Simplon
+    date_start: 09-12-2024
+    date_end: 16-09-2025
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -100,26 +95,22 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Linux
         description: ''
         percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+      - name: Active Directory 
         description: ''
         percent: 40
-        icon: devicon/pytorch
+      - name: Network Administration
+        description: ''
+        percent: 40
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Travelling
         description: ''
-        percent: 60
-        icon: person-simple-walk
+        percent: 80
       - name: Cats
         description: ''
         percent: 100
@@ -130,11 +121,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: French
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: English
+    percent: 80
+  - name: Espagnol
     percent: 25
 
 # Awards.
@@ -144,7 +135,7 @@ languages:
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    date: '28-04-2025'
     awarder: Coursera
     icon: coursera
     summary: |
