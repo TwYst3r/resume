@@ -39,8 +39,8 @@ profiles:
 education:
   - area: Montreuil
     institution: Simplon
-    date_start: 09-12-2024
-    date_end: 16-09-2025
+    date_start: 2024-12-09
+    date_end: 2025-09-16
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -135,7 +135,7 @@ languages:
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '28-04-2025'
+    date: '2025-04-08'
     awarder: Coursera
     icon: coursera
     summary: |
