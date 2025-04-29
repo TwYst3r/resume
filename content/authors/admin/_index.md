@@ -72,6 +72,9 @@ skills:
       - name: Active Directory 
         description: ''
         percent: 40
+      - name: Amazon Cloud
+        description: ''
+        percent: 30
       - name: Network Administration
         description: ''
         percent: 40
