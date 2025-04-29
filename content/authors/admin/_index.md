@@ -19,7 +19,6 @@ role: Network & System Administrator in Internship
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Simplon
-    url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,12 +53,12 @@ work:
     date_start: 2025-04-22
     date_end: ''
 
-  - position: Backend Software Engineer
+  - position: Tourism Office
     company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-10-03
+    date_end: 2024-12-12
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -97,10 +96,10 @@ skills:
 languages:
   - name: French
     percent: 100
+  - name: Espanol
+    percent: 25
   - name: English
     percent: 80
-  - name: Espagnol
-    percent: 25
 
 ---
 J’apprends rapidement et j’effectue le travail rigoureusement, toujours dans la courtoisie et la bienveillance. Je sais faire preuve d’adaptabilité. En formation en Technicien supérieur systèmes et réseaux à Simplon. 
