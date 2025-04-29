@@ -18,7 +18,7 @@ role: Network & System Administrator in Internship
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Kobus
+  - name: Simplon
     url: https://www.example.com/
 
 # Social network links
