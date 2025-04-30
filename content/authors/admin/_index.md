@@ -53,8 +53,8 @@ work:
     date_start: 2025-04-22
     date_end: ''
 
-  - position: Tourism Office
-    company_name: X
+  - position: Tourist Office
+    company_name: Viroinval Tourist Office
     company_url: ''
     company_logo: ''
     date_start: 2023-10-03
