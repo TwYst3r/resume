@@ -82,7 +82,7 @@ jobs:
         with:
           path: ./public
 
-  # Deployment job
+  # Deploy on Pages
   deploy:
     environment:
       name: github-pages
@@ -93,3 +93,15 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+
+# Deploy on S3
+- name: Deploy to S3
+  uses: jakejarvis/s3-sync-action@v0.5.1
+        with:
+          args: --acl public-read --delete
+        env:
+          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          SOURCE_DIR: ./public
